@@ -54,7 +54,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr@SD" tvg-logo="https://i.imgur.com/AN5UsKq.png",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-id="NOWTV.tr@SD" tvg-logo="https://i.imgur.com/AN5UsKq.png",NOW TV
+#EXTINF:-1 tvg-id="NOWTV.tr@SD" tvg-logo="https://i.imgur.com/AN5UsKq.png",NOW TV 2
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr@SD"tvg-logo="https://i.imgur.com/C0JF2YO.png",HTSpor TV
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
